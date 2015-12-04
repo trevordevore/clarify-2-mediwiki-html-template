@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<properties version="1">
+	<web_safe>true</web_safe>
+	<text_format>runs</text_format>
+	<word_separator>-</word_separator>
+	<image_names>random</image_names>
+	<article_structure>flat</article_structure>
+	<hi_res_images>false</hi_res_images>
+</properties>
